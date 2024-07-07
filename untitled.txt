@@ -7,3 +7,5 @@ pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -
 pip install langchain
 
 pip install langchain-community
+
+pip install neo4j
