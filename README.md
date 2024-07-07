@@ -7,6 +7,8 @@ https://networkx.org/
 
 https://pytorch-geometric.readthedocs.io/en/latest/
 
+https://learn.deeplearning.ai/courses/knowledge-graphs-rag/lesson/1/introduction
+
 https://www.coursera.org/learn/trees-graphs-basics
 
 https://www.coursera.org/learn/algorithms-graphs-data-structures
