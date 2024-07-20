@@ -1,5 +1,12 @@
 # graph
 
+# guides
+
+- Test GPU:
+
+        python -c "import torch; print(torch.cuda.is_available())"
+        >>> True
+
 # references
 
 https://networkx.org/
