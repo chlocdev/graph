@@ -8,6 +8,7 @@ mlartifacts
 tensorboard_logs
 saved_model
 checkpoints
+tmp
 
 *.llamafile
 *.npz
