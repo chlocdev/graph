@@ -30,10 +30,12 @@ https://pytorch-geometric.readthedocs.io/en/latest/get_started/colabs.html#offic
 
 https://github.com/pyg-team/pytorch_geometric/tree/master
 
-https://microsoft.github.io/graphrag/posts/get_started/
-
-https://neo4j.com/docs/getting-started/
-
 https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html
 
 [Stanford CS224W: Machine Learning with Graphs | 2021](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rOP-ImU-O1rYRg2RFxomvFp)
+
+https://github.com/luciusssss/CS224W-Colab/tree/main
+
+https://microsoft.github.io/graphrag/posts/get_started/
+
+https://neo4j.com/docs/getting-started/
