@@ -1,4 +1,4 @@
-# graph
+# graph data
 
 # guides
 
@@ -25,6 +25,8 @@
 https://networkx.org/
 
 https://pytorch-geometric.readthedocs.io/en/latest/
+
+https://pytorch-geometric.readthedocs.io/en/latest/get_started/colabs.html#official-examples
 
 https://microsoft.github.io/graphrag/posts/get_started/
 
