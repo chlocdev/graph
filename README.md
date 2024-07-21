@@ -28,6 +28,8 @@ https://pytorch-geometric.readthedocs.io/en/latest/
 
 https://pytorch-geometric.readthedocs.io/en/latest/get_started/colabs.html#official-examples
 
+https://github.com/pyg-team/pytorch_geometric/tree/master
+
 https://microsoft.github.io/graphrag/posts/get_started/
 
 https://neo4j.com/docs/getting-started/
