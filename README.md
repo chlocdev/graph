@@ -36,6 +36,10 @@ https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html
 
 https://github.com/luciusssss/CS224W-Colab/tree/main
 
+https://snap-stanford.github.io/cs224w-notes/
+
+https://github.com/gulabpatel/Graph_Neural_Network/tree/main
+
 https://microsoft.github.io/graphrag/posts/get_started/
 
 https://neo4j.com/docs/getting-started/
